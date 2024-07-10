@@ -4,9 +4,9 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 ## Skills
 
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🌱 Frontend : React, Next, Web3(Blockchain, solidity, solana, smart contract, AI), Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
-- 📲 Mobile: Android, React Native, Ionic, Flutter
+- 📲 Mobile: Android, React Native, Ionic, Flutter, Kotlin
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
